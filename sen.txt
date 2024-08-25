@@ -1,1 +1,2 @@
 user.name="sanjay"
+user.email="san@gamil.com"
